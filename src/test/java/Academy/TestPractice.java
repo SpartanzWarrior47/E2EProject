@@ -11,5 +11,8 @@ public class TestPractice {
 		int b=9;
 		int sum=a+b;
 		System.out.println(sum);
+		System.out.println("Naveen");
+		System.out.println("TestABCD");
+	
 	}
 }
