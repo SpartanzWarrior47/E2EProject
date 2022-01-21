@@ -44,6 +44,7 @@ public class ValidateTitle extends base{
 		
 		Assert.assertEquals((LP.getTitle().getText()), "Featured Courses");
 		log.info("Title is validated successfully");
+		System.out.println("Hi Naveen");
 	}
 	
 	@AfterTest
